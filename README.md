@@ -8,7 +8,7 @@ Create Pong Clone using Lua for deskop
 
 ## Prereqiusites 
 
-TO run the game need:
+To run the game need:
 
 - [Lua](https://www.lua.org/download.html)
 
